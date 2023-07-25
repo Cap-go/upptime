@@ -71,6 +71,7 @@ sites:
     url: https://supabase.capgo.app/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
 status-website:
+  favicon: https://raw.githubusercontent.com/Cap-go/capgo/main/assets/logo.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.capgo.app
