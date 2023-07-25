@@ -32,6 +32,10 @@ status-website:
   introTitle: "This status page automatically monitors our systems and alerts if something is not working as expected."
   introMessage: This is a status page which uses just GitHub Actions, Issues, and Pages.
   navbar:
+    - title: Webapp
+      href: https://web.capgo.app
+    - title: Website
+      href: https://capgo.app
     - title: Status
       href: /
     - title: GitHub
