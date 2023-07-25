@@ -28,9 +28,9 @@ status-website:
   cname: uptime.capgo.app
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Cap-go/website/main/public/capgo_logo.webp
-  name: Capgo Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status page
+  introTitle: "This status page automatically monitors our systems and alerts if something is not working as expected."
+  introMessage: This is a status page which uses just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
