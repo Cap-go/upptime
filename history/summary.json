@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.capgo.app.ico",
     "slug": "api-load-balancer",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 359,
     "timeDay": 283,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {
-      "2023-07-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Cloudflare workers",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xvwzpoazmxkqosrdewyv.functions.supabase.co.ico",
     "slug": "api-cloudflare-workers",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 581,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API AWS",
@@ -117,17 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "database-supabase",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 866,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 1131,
-    "dailyMinutesDown": {}
+    "uptime": "99.89%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1105,
+    "timeDay": 848,
+    "timeWeek": 1105,
+    "timeMonth": 1105,
+    "timeYear": 1105,
+    "dailyMinutesDown": {
+      "2023-07-26": 9
+    }
   },
   {
     "name": "Database Netlify",
@@ -171,19 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "consistency-between-providers",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2516,
     "timeDay": 2516,
     "timeWeek": 2516,
     "timeMonth": 2516,
     "timeYear": 2516,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Update endpoint AWS",
@@ -232,11 +228,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.14%",
-    "time": 4466,
-    "timeDay": 4466,
-    "timeWeek": 4466,
-    "timeMonth": 4466,
-    "timeYear": 4466,
+    "time": 3961,
+    "timeDay": 3961,
+    "timeWeek": 3961,
+    "timeMonth": 3961,
+    "timeYear": 3961,
     "dailyMinutesDown": {
       "2023-07-26": 9
     }
@@ -288,11 +284,11 @@
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.15%",
-    "time": 1743,
-    "timeDay": 1743,
-    "timeWeek": 1743,
-    "timeMonth": 1743,
-    "timeYear": 1743,
+    "time": 1468,
+    "timeDay": 1468,
+    "timeWeek": 1468,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-07-26": 9
     }
@@ -303,17 +299,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "plugin-get-channels-endpoint-aws",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3741,
-    "timeDay": 3741,
-    "timeWeek": 3741,
-    "timeMonth": 3741,
-    "timeYear": 3741,
-    "dailyMinutesDown": {}
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 2845,
+    "timeDay": 2845,
+    "timeWeek": 2845,
+    "timeMonth": 2845,
+    "timeYear": 2845,
+    "dailyMinutesDown": {
+      "2023-07-26": 9
+    }
   },
   {
     "name": "Plugin Get channels endpoint GCP",
@@ -339,19 +337,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "plugin-get-channels-endpoint-cloudflare",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1364,
     "timeDay": 1364,
     "timeWeek": 1364,
     "timeMonth": 1364,
     "timeYear": 1364,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Get devices endpoint AWS",
@@ -359,19 +355,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "api-get-devices-endpoint-aws",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1453,
     "timeDay": 1453,
     "timeWeek": 1453,
     "timeMonth": 1453,
     "timeYear": 1453,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Get devices endpoint GCP",
@@ -397,16 +391,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.capgo.app.ico",
     "slug": "api-get-devices-endpoint-cloudflare",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
-    "time": 871,
-    "timeDay": 871,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2023-07-26": 9
     }
