@@ -184,19 +184,19 @@
     "url": "https://netlify.capgo.app/ok?service=update",
     "icon": "https://icons.duckduckgo.com/ip3/netlify.capgo.app.ico",
     "slug": "update-endpoint-aws",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 4013,
-    "timeDay": 6642,
-    "timeWeek": 4013,
-    "timeMonth": 4013,
-    "timeYear": 4013,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 4056,
+    "timeDay": 5952,
+    "timeWeek": 4056,
+    "timeMonth": 4056,
+    "timeYear": 4056,
     "dailyMinutesDown": {
-      "2023-08-01": 2
+      "2023-08-01": 21
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://netlify-edge.capgo.app/ok?service=update",
     "icon": "https://icons.duckduckgo.com/ip3/netlify-edge.capgo.app.ico",
     "slug": "update-endpoint-gcp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5685,
-    "timeDay": 15119,
-    "timeWeek": 5685,
-    "timeMonth": 5685,
-    "timeYear": 5685,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 5543,
+    "timeDay": 11359,
+    "timeWeek": 5543,
+    "timeMonth": 5543,
+    "timeYear": 5543,
     "dailyMinutesDown": {
-      "2023-08-01": 0
+      "2023-08-01": 19
     }
   },
   {
