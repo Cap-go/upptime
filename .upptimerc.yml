@@ -34,23 +34,23 @@ sites:
   - name: Consistency between providers
     url: https://supabase.capgo.app/test_consistency
     __dangerous__body_down_if_text_missing: '{"status":"ok"}'
-  - name: Update endpoint AWS
-    url: https://netlify.capgo.app/ok?service=update
-    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
-  - name: Update endpoint GCP
-    url: https://netlify-edge.capgo.app/ok?service=update
-    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
-  - name: Update endpoint Cloudflare
+  - name: Update endpoint Cloudflare (main)
     url: https://supabase.capgo.app/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
-  - name: Stats endpoint AWS
-    url: https://netlify.capgo.app/ok?service=stats
+  - name: Update endpoint GCP (backup 1)
+    url: https://netlify-edge.capgo.app/ok?service=update
+    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
+  - name: Update endpoint AWS (backup 2)
+    url: https://netlify.capgo.app/ok?service=update
+    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
+  - name: Stats endpoint Cloudflare (main)
+    url: https://supabase.capgo.app/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
-  - name: Stats endpoint GCP
+  - name: Stats endpoint GCP (backup 1)
     url: https://netlify-edge.capgo.app/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
-  - name: Stats endpoint Cloudflare
-    url: https://supabase.capgo.app/ok?service=stats
+  - name: Stats endpoint AWS (backup 2)
+    url: https://netlify.capgo.app/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Plugin Get channels endpoint AWS
     url: https://supabase.capgo.app/ok?service=channel_self_get
