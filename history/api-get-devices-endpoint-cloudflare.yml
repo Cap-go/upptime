@@ -1,7 +1,7 @@
 url: https://supabase.capgo.app/ok?service=device_get
-status: down
-code: 500
-responseTime: 6599
-lastUpdated: 2023-08-21T20:23:44.683Z
+status: up
+code: 200
+responseTime: 13298
+lastUpdated: 2023-08-21T20:32:54.109Z
 startTime: 2023-07-25T18:17:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
