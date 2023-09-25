@@ -1,7 +1,7 @@
 url: https://supabase.capgo.app/ok?service=channel_self_get
-status: up
-code: 200
-responseTime: 2978
-lastUpdated: 2023-09-25T02:37:23.644Z
+status: down
+code: 503
+responseTime: 67
+lastUpdated: 2023-09-25T02:47:25.702Z
 startTime: 2023-07-25T18:17:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
