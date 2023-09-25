@@ -1,7 +1,7 @@
 url: https://netlify-edge.capgo.app/ok?service=channel_self_get
-status: up
-code: 200
-responseTime: 20145
-lastUpdated: 2023-09-25T00:02:54.064Z
+status: down
+code: 500
+responseTime: 108
+lastUpdated: 2023-09-25T02:24:58.503Z
 startTime: 2023-07-25T18:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
