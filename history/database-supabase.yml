@@ -1,7 +1,7 @@
 url: https://supabase.capgo.app/ok?service=database
-status: up
-code: 200
-responseTime: 4111
-lastUpdated: 2023-09-27T02:27:23.753Z
+status: down
+code: 500
+responseTime: 10147
+lastUpdated: 2023-09-27T21:58:43.742Z
 startTime: 2023-07-20T14:30:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
