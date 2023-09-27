@@ -1,7 +1,7 @@
 url: https://netlify.capgo.app/ok?service=stats
-status: up
-code: 200
-responseTime: 749
-lastUpdated: 2023-09-27T04:27:36.337Z
+status: down
+code: 502
+responseTime: 10201
+lastUpdated: 2023-09-27T21:48:53.200Z
 startTime: 2023-08-03T11:30:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
