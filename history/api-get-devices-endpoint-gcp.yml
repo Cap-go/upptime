@@ -1,7 +1,7 @@
 url: https://netlify-edge.capgo.app/ok?service=device_get
-status: down
-code: 500
-responseTime: 457
-lastUpdated: 2023-09-30T02:08:19.458Z
+status: up
+code: 200
+responseTime: 626
+lastUpdated: 2023-09-30T02:54:05.205Z
 startTime: 2023-07-25T18:17:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
