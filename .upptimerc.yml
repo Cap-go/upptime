@@ -26,10 +26,10 @@ sites:
     url: https://supabase.capgo.app/ok?service=database
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"database"}'
   - name: Database Netlify
-    url: https://netlify.capgo.app/ok?service=database
+    url: https://web.capgo.app/api/ok?service=database
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"database"}'
   - name: Database Netlify Edge
-    url: https://netlify-edge.capgo.app/ok?service=database
+    url: https://web.capgo.app/api/ok?service=database
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"database"}'
   - name: Consistency between providers
     url: https://supabase.capgo.app/test_consistency
@@ -38,25 +38,25 @@ sites:
     url: https://supabase.capgo.app/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Update endpoint GCP (backup 1)
-    url: https://netlify-edge.capgo.app/ok?service=update
+    url: https://web.capgo.app/api-egde/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Update endpoint AWS (backup 2)
-    url: https://netlify.capgo.app/ok?service=update
+    url: https://web.capgo.app/api/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Stats endpoint Cloudflare (main)
     url: https://supabase.capgo.app/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Stats endpoint GCP (backup 1)
-    url: https://netlify-edge.capgo.app/ok?service=stats
+    url: https://web.capgo.app/api-egde/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Stats endpoint AWS (backup 2)
-    url: https://netlify.capgo.app/ok?service=stats
+    url: https://web.capgo.app/api/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Plugin Get channels endpoint AWS
     url: https://supabase.capgo.app/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint GCP
-    url: https://netlify-edge.capgo.app/ok?service=channel_self_get
+    url: https://web.capgo.app/api-egde/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint Cloudflare
     url: https://supabase.capgo.app/ok?service=channel_self_get
@@ -65,7 +65,7 @@ sites:
     url: https://supabase.capgo.app/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint GCP
-    url: https://netlify-edge.capgo.app/ok?service=device_get
+    url: https://web.capgo.app/api-egde/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint Cloudflare
     url: https://supabase.capgo.app/ok?service=device_get
