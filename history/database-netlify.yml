@@ -1,7 +1,7 @@
 url: https://web.capgo.app/api/ok?service=database
-status: up
-code: 200
-responseTime: 9728
-lastUpdated: 2023-10-09T21:37:50.892Z
+status: down
+code: 500
+responseTime: 548
+lastUpdated: 2023-10-09T21:47:30.306Z
 startTime: 2023-07-20T14:30:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
