@@ -1,7 +1,7 @@
-url: https://supabase.capgo.app/test_consistency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-11T23:08:41.371Z
+url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/test_consistency
+status: up
+code: 200
+responseTime: 148
+lastUpdated: 2023-10-12T00:52:14.927Z
 startTime: 2023-07-25T18:16:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
