@@ -53,7 +53,7 @@ sites:
     url: https://web.capgo.app/api/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Plugin Get channels endpoint AWS
-    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
+    url: https://web.capgo.app/api/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint GCP
     url: https://web.capgo.app/api-edge/ok?service=channel_self_get
@@ -62,7 +62,7 @@ sites:
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: API Get devices endpoint AWS
-    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=device_get
+    url: https://web.capgo.app/api/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint GCP
     url: https://web.capgo.app/api-edge/ok?service=device_get
