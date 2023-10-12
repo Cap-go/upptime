@@ -38,7 +38,7 @@ sites:
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Update endpoint GCP (backup 1)
-    url: https://web.capgo.app/api-egde/ok?service=update
+    url: https://web.capgo.app/api-edge/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Update endpoint AWS (backup 2)
     url: https://web.capgo.app/api/ok?service=update
@@ -47,7 +47,7 @@ sites:
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Stats endpoint GCP (backup 1)
-    url: https://web.capgo.app/api-egde/ok?service=stats
+    url: https://web.capgo.app/api-edge/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Stats endpoint AWS (backup 2)
     url: https://web.capgo.app/api/ok?service=stats
@@ -56,7 +56,7 @@ sites:
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint GCP
-    url: https://web.capgo.app/api-egde/ok?service=channel_self_get
+    url: https://web.capgo.app/api-edge/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint Cloudflare
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
@@ -65,7 +65,7 @@ sites:
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint GCP
-    url: https://web.capgo.app/api-egde/ok?service=device_get
+    url: https://web.capgo.app/api-edge/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint Cloudflare
     url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=device_get
