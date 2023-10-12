@@ -23,7 +23,7 @@ sites:
     url: https://web.capgo.app/ok
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
   - name: Database Supabase
-    url: https://supabase.capgo.app/ok?service=database
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=database
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"database"}'
   - name: Database Netlify
     url: https://web.capgo.app/api/ok?service=database
@@ -32,10 +32,10 @@ sites:
     url: https://web.capgo.app/api/ok?service=database
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"database"}'
   - name: Consistency between providers
-    url: https://supabase.capgo.app/test_consistency
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/test_consistency
     __dangerous__body_down_if_text_missing: '{"status":"ok"}'
   - name: Update endpoint Cloudflare (main)
-    url: https://supabase.capgo.app/ok?service=update
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Update endpoint GCP (backup 1)
     url: https://web.capgo.app/api-egde/ok?service=update
@@ -44,7 +44,7 @@ sites:
     url: https://web.capgo.app/api/ok?service=update
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"update"}'
   - name: Stats endpoint Cloudflare (main)
-    url: https://supabase.capgo.app/ok?service=stats
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Stats endpoint GCP (backup 1)
     url: https://web.capgo.app/api-egde/ok?service=stats
@@ -53,22 +53,22 @@ sites:
     url: https://web.capgo.app/api/ok?service=stats
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"stats"}'
   - name: Plugin Get channels endpoint AWS
-    url: https://supabase.capgo.app/ok?service=channel_self_get
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint GCP
     url: https://web.capgo.app/api-egde/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: Plugin Get channels endpoint Cloudflare
-    url: https://supabase.capgo.app/ok?service=channel_self_get
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"channel_self_get"}'
   - name: API Get devices endpoint AWS
-    url: https://supabase.capgo.app/ok?service=device_get
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint GCP
     url: https://web.capgo.app/api-egde/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
   - name: API Get devices endpoint Cloudflare
-    url: https://supabase.capgo.app/ok?service=device_get
+    url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=device_get
     __dangerous__body_down_if_text_missing: '{"status":"ok","service":"device_get"}'
 status-website:
   favicon: https://raw.githubusercontent.com/Cap-go/capgo/main/assets/logo.png
