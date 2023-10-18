@@ -1,7 +1,7 @@
 url: https://web.capgo.app/api/ok?service=device_get
-status: up
-code: 200
-responseTime: 772
-lastUpdated: 2023-10-18T14:26:18.896Z
+status: down
+code: 502
+responseTime: 10256
+lastUpdated: 2023-10-18T21:25:49.682Z
 startTime: 2023-07-25T18:17:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
