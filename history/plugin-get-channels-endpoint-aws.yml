@@ -1,7 +1,7 @@
 url: https://web.capgo.app/api/ok?service=channel_self_get
-status: up
-code: 200
-responseTime: 950
-lastUpdated: 2023-10-19T23:08:55.514Z
+status: down
+code: 502
+responseTime: 232
+lastUpdated: 2023-10-20T12:46:35.430Z
 startTime: 2023-07-25T18:17:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
