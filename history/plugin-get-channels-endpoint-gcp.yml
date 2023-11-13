@@ -1,7 +1,7 @@
 url: https://web.capgo.app/api-edge/ok?service=channel_self_get
 status: up
 code: 200
-responseTime: 1083
-lastUpdated: 2023-11-12T23:08:31.815Z
+responseTime: 680
+lastUpdated: 2023-11-13T23:09:26.042Z
 startTime: 2023-07-25T18:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
