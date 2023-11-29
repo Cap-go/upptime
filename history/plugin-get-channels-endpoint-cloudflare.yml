@@ -1,7 +1,7 @@
 url: https://xvwzpoazmxkqosrdewyv.supabase.co/functions/v1/ok?service=channel_self_get
-status: up
-code: 200
-responseTime: 941
-lastUpdated: 2023-11-28T23:09:30.059Z
+status: down
+code: 503
+responseTime: 89
+lastUpdated: 2023-11-29T10:14:11.361Z
 startTime: 2023-07-25T18:17:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
