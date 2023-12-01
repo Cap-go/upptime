@@ -1,7 +1,7 @@
 url: https://api.capgo.app/ok
-status: down
-code: 502
-responseTime: 147
-lastUpdated: 2023-12-01T15:28:49.514Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2023-12-01T15:38:40.224Z
 startTime: 2023-07-20T14:30:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
