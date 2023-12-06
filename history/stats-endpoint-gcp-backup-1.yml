@@ -1,7 +1,7 @@
 url: https://web.capgo.app/api-edge/ok?service=stats
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2023-12-05T23:09:57.777Z
+status: down
+code: 500
+responseTime: 80
+lastUpdated: 2023-12-06T04:31:01.869Z
 startTime: 2023-08-03T11:29:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
