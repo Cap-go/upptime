@@ -6,16 +6,16 @@ assignees:
   - riderx
 
 sites:
-  # - name: Capgo landing
-  #   url: https://capgo.app
-  # - name: Webapp
-  #   url: https://web.capgo.app/
-  # - name: API Load balancer
-  #   url: https://api.capgo.app/ok
-  #   __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
-  # - name: API Cloudflare workers
-  #   url: https://xvwzpoazmxkqosrdewyv.functions.supabase.co/ok
-  #   __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
+  - name: Capgo landing
+    url: https://capgo.app
+  - name: Webapp
+    url: https://web.capgo.app/
+  - name: API Load balancer
+    url: https://api.capgo.app/ok
+    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
+  - name: API Cloudflare workers
+    url: https://xvwzpoazmxkqosrdewyv.functions.supabase.co/ok
+    __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
   # - name: API AWS
   #   url: https://web.capgo.app/ok
   #   __dangerous__body_down_if_text_missing: '{"status":"ok","service":"ok"}'
