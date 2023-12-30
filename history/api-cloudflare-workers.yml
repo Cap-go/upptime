@@ -1,7 +1,7 @@
 url: https://xvwzpoazmxkqosrdewyv.functions.supabase.co/ok
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2023-12-30T21:22:54.540Z
+status: down
+code: 500
+responseTime: 166
+lastUpdated: 2023-12-30T21:30:25.578Z
 startTime: 2023-07-20T14:30:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
