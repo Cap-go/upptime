@@ -4,7 +4,7 @@
     "url": "https://capgo.app",
     "icon": "https://icons.duckduckgo.com/ip3/capgo.app.ico",
     "slug": "capgo-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 88,
     "timeMonth": 100,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Webapp",
@@ -68,18 +70,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xvwzpoazmxkqosrdewyv.functions.supabase.co.ico",
     "slug": "api-cloudflare-workers",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.17%",
     "time": 458,
     "timeDay": 232,
     "timeWeek": 175,
     "timeMonth": 555,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2024-01-03": 8,
       "2023-12-11": 19,
       "2023-12-06": 19,
       "2023-11-29": 18,
